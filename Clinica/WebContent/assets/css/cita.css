@@ -1,0 +1,41 @@
+
+/* Formulario*/
+.reserva
+{	
+
+	border: 1px solid black;
+	border-radius: 8px;
+	margin: 100px auto;
+	width:500px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	
+}
+
+.reserva h2
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align:center;
+	font-size: 36px;
+}
+.freserva
+{
+	padding: 14px;
+	
+	
+}
+/*label,button[type="button"]
+{
+	margin-top: 10px;
+}
+
+h5
+{
+	
+	font-family: 'Montserrat', sans-serif;
+}*/
+label,input[type="submit"]
+{
+	margin-top: 10px;
+}
